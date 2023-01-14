@@ -1,0 +1,100 @@
+Elephant|A big mammal
+Sunflower|A flower 
+Computer|An electronic device that can perform a variety of tasks
+Waterfall|Remarkable water feature
+Birthday|Special day in your life
+Guitar|A musical instrument to impress girls
+Vacation|Fixed rest period
+Dolphin|An aquatic mammal
+Fireworks|Dazzling and Sparking
+Chocolate|Sweet
+Rainbow|Colourful Pattern
+Pineapple|A fruit
+Jaguar|A sports car company
+Butterfly|A flying insect
+Cyclone|A natural disaster
+Iceberg|Titanic
+Kangaroo|A hopping animal
+Lightning|Phenomenon during rain
+Mushroom|A vegetable
+Nightingale|A bird known for its melodious voice
+Ocean|A large water body
+Parrot|A bird
+Quicksand|Hard to escape
+Rocket|Air vehicle
+Statue|3D representation
+Train|A vehicle
+Umbrella|Gives protection from rain
+Volcano|Natural disaster
+Watch|Portable timepiece
+Xylophone|A musical instrrument
+Yellow|Colour of your teeth
+Zebra|An animal
+Apple|A fruit
+Banana|A fruit
+Carrot|A root vegetable
+Flamingo|A bird
+Giraffe|A large animal
+Hippopotamus|A large mammal
+Insects|Small flying creatures
+Kingfisher|Famous beer company
+Monkey|A notorious animal
+Octopus|Sea animal
+Penguin|A flightless bird
+Quail|A mid-sized bird
+Rabbit|A small animal
+Snake|Reptile
+Tiger|A wild animal
+Unicorn|An imaginary animal
+Vulture|A bird
+Walrus|An aquatic mammal
+Yak|A large mammal
+Aquarium|Place for fishes
+Bicycle|A vehicle
+Camera|Capturing moments
+Donut|Ring shaped
+Gorilla|An animal
+House|Building
+Iguana|Sea creature
+Jellyfish|Sea creature
+Lion|A wild animal
+Moon|A celestial body
+Robot|Autonomous working device
+Sailboat|Water transport
+Yacht|Water transport
+Angel|Fairy
+Fish|Sea creature
+Horse|An animal
+Venus|A celestial body
+American|A citizenship
+Beautiful|Adjective
+Delicious|Pleasant to the taste
+Heels|Footwear
+Happy|A feeling
+Icecream|Dessert
+King|Monarch
+Money|Payment
+Blue|A colour
+Cyan|A colour
+Diamond|A precious substance
+Emerald|A precious substance
+Fire|Burning sensation
+Gold|A precious metal
+Indigo|A colour
+Jewel|An ornament
+Kiwi|A fruit
+Lavender|A colour
+Magenta|A colour
+Navy|Branch of armed services
+Heater|Useful in winters
+Pink|A colour
+Quirky|Unorthodox
+Sapphire|A precious substance
+Turquoise|A colour
+Ultraviolet|Sunrays
+Violet|A colour
+White|A colour
+Xray|Used by doctors
+Alphabet|Basics for English
+Bear|A wild animal
+Language|System of communication
