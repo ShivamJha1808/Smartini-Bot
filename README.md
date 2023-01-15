@@ -7,6 +7,7 @@ Discord game bot made for Syntax Error 2023 written in Python hosted on Replit
 This game consists of 2 mini-games. The first game consists of 9 questions, each of which has 4 options. You get 15 seconds to answer each question. Your score would be displayed in the end. The second mini-game gives you random trivia questions and you get 60 seconds for each question.
 ###### Commands:
 ***$askMe*** : It provides you with a simple multi-choice question with four options. You have to enter your choice to continue with it.
+
 ***$rapid*** : It starts off a rapid quiz of 9 questions, with 15s timer for each question, and returns your total score at the end.
 
 ## Jumbled Word
