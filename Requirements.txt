@@ -1,0 +1,3 @@
+discord.py
+Replit
+api used="https://the-trivia-api.com/api/questions?categories=food_and_drink&limit=9&region=IN&difficulty=medium"
